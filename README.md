@@ -1,8 +1,8 @@
 # Geo-Notes-App
 Ứng dụng có thể ghi chú nơi bạn đến và hiển thị trên bản đồ
-<img width="1905" height="912" alt="image" src="https://github.com/user-attachments/assets/0b960a68-ebeb-4ca4-9f60-3331be8b0cec" />
-<img width="1903" height="902" alt="image" src="https://github.com/user-attachments/assets/146e3876-be02-4dcb-9c75-e07d9ba98b0f" />
-Hướng dẫn chạy
+<img width="1903" height="902" alt="Screenshot 2025-09-26 094652" src="https://github.com/user-attachments/assets/a4144abc-be66-4c91-ab18-9494bd316255" />
+<img width="1905" height="912" alt="Screenshot 2025-09-26 094641" src="https://github.com/user-attachments/assets/47203e7c-035c-4871-9e55-d3016b7987a6" />
+
 Clone về bằng http hoặc zip
 Giải nén và chạy các câu lệnh sau
 # 1. Di chuyển vào thư mục dự án
